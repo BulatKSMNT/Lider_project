@@ -1,0 +1,13 @@
+# Frontend
+client/node_modules/
+client/dist/
+client/.env
+
+# Backend
+server/node_modules/
+server/uploads/
+server/.env
+
+# Общее
+.DS_Store
+.idea
